@@ -8,7 +8,7 @@
 }
 
 .top-color {
-  background: linear-gradient(to right, #0036cb, #1edcd6);
+  background: linear-gradient(to right, #102d67, #1edcd6);
   padding: 32px;
 }
 
@@ -121,7 +121,7 @@
 }
 
 .btn-whats {
-  background-color: #0f36c8;
+  background-color: #102d67;
 }
 
 /* Efeito hover */
@@ -131,7 +131,8 @@
 }
 
 .footer {
-  background: linear-gradient(to right, #0036cb, #1edcd6);
+  background: linear-gradient(to right, #102d67, #1edcd6);
+  color: #fff;
   padding: 32px;
   display: flex;
   justify-content: center;
