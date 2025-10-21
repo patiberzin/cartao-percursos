@@ -23,7 +23,7 @@
 
 .description {
   display: inline-block; 
-  background-color: #a2f0ee;
+  background-color: #b5e4dd;
   color: #0d2c67;
   font-size: 1rem;
   font-weight: bold;
@@ -39,7 +39,7 @@
   max-width: 500px;
   padding: 40px 20px;
   margin: 20px auto;
-  background-color: #d5ebeb;
+  background-color: #f2d3d0;
   border-radius: 10dvh;
 }
 
