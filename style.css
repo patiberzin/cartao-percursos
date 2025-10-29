@@ -110,7 +110,6 @@
   font-size: 1rem;
   font-weight: bold;
   border-radius: 8px;
-  color: #fff;
   text-decoration: none;
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
@@ -118,20 +117,22 @@
 /* Cores específicas */
 .btn-blog {
   background-color: #fd8a59;
+  color: #000;
 }
 
 .btn-whats {
   background-color: #102d67;
+  color: #fff;
 }
 
 .btn-linkedin {
   background-color: #fdde59;
-  color: #0d2c67;
+  color: #000;
 }
 
 .btn-instagram {
   background-color: #2cddd6;
-  color: #0d2c67;
+  color: #000;
 }
 
 /* Efeito hover */
