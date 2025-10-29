@@ -124,6 +124,14 @@
   background-color: #102d67;
 }
 
+.btn-linkedin {
+  background-color: #fdde59;
+}
+
+.btn-instagram {
+  background-color: #2cddd6;
+}
+
 /* Efeito hover */
 .btn:hover {
   transform: translateY(-2px);
